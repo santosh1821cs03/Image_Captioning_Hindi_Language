@@ -6,3 +6,6 @@ TensorFlow implementation of the paper: "A Hindi Image Caption Generation Framew
 	* step 2: Before training the model, we need to preprocess the MSCOCO caption dataset. To generate caption dataset and extract the image feature, run prepro_hindi_resnet.py.
 	* Step 3: To train the image captioning model, run train_hindi_corrected.py .
 	
+## Test
+
+	* Run test.py to test the model.
